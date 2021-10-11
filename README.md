@@ -1,5 +1,4 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=operator+mono&color=0081f7&lines=Hi,+There!;I%27m+Zareef...;Nice+to+meet+you!&center=true&size=38"></h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=cascadia+code&color=0081ga&lines=I+am+just+a+noob;from+Bangladesh+:V;&center=true&size=28"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zareef26&label=Profile%20views&color=009dff&style=flat" alt="zareef26" /> </p>
 
