@@ -6,7 +6,7 @@
 
 -   🔭 I’m currently working on **Hey it's a secret**
 
--   🌱 I’m currently learning ** Front-end, Back-end & App-Development**
+-   🌱 I’m currently learning ** Full Stack Web Development**
 
 -   👯 I’m looking to collaborate on **Anyone!**
 
